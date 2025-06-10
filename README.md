@@ -1,6 +1,4 @@
-# Data-Analytics
-
-Sales Warehouse Data Analysis using SQL
+# Sales Warehouse Data Analysis using SQL
 
 Analyzed and segmented sales data to identify key customer cohorts, product performance trends, and regional sales disparities using complex SQL queries including joins, subqueries, and CTEs.
 
