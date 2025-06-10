@@ -1,4 +1,4 @@
-# Ojasvi-Thakre-Data-Analytics-
+# Data-Analytics
 
 Sales Warehouse Data Analysis using SQL
 
